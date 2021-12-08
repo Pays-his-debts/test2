@@ -1,0 +1,18 @@
+sheet:
+  tower_user:
+  - username  : "321013"
+    last_name : ずいずい
+    first_name: やああん
+    roles     : Admin
+  - username  : "321021"
+    last_name : ダイアン
+    first_name: 津田
+    roles     : Execute
+  - username  : "123456"
+    last_name : ダイアン
+    first_name: ユースケ
+    roles     : Execute
+  - username  : "222222"
+    last_name : 金光
+    first_name: iDeCo
+    roles     : Execute
